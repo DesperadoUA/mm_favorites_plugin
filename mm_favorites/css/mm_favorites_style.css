@@ -1,0 +1,12 @@
+.mm_favorites_add_favorites, .mm_favorites_delete_favorites{
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: #00d084;
+    color: #fff;
+}
+.mm_favorites_loader {
+    width:100px;
+}
+.mm_favorites_hidden {
+    display: none;
+}
